@@ -1,0 +1,1 @@
+from docx2pdf import convert;word_path, pdf_path= "employ.docx", "test.pdf";convert(word_path, pdf_path)
